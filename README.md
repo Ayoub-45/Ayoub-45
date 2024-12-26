@@ -40,7 +40,7 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 🔹 A hands-on CI/CD pipeline built with **Jenkins** and **Docker** for seamless deployments.  
 🔹 Demonstrates **containerization**, **integration testing**, and **automated deployment**.  
 
-#### [PostgreSQL Number Guessing Game](https://github.com/yourusername/number-guessing-game)  
+#### [PostgreSQL Number Guessing Game](https://github.com/ayoub-45/number-guessing-game)  
 🔹 A fun and interactive CLI game developed in **Bash**, showcasing PostgreSQL integration.  
 🔹 Highlights database query handling and dynamic scripting.  
 
