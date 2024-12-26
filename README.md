@@ -51,6 +51,5 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)    
 
 ---
----
 
 🤝 _Open to collaboration on exciting projects, DevOps pipelines, and innovative startups!_
