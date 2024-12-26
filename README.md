@@ -29,23 +29,6 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 
 ---
 
-### 🌟 **Featured Projects**
-
-#### [Task Manager API](https://github.com/yourusername/task-manager-api)  
-🔹 Built a RESTful API using **.NET 8.0** and **SQL Server** to manage tasks efficiently.  
-🔹 Implements best practices in **error handling**, **logging**, and **data validation**.  
-🔹 Features **JWT Authentication**, **JSON Patch Support**, and **Unit Testing** for robustness.  
-
-#### [DevOps Pipeline Demo](https://github.com/yourusername/devops-pipeline)  
-🔹 A hands-on CI/CD pipeline built with **Jenkins** and **Docker** for seamless deployments.  
-🔹 Demonstrates **containerization**, **integration testing**, and **automated deployment**.  
-
-#### [PostgreSQL Number Guessing Game](https://github.com/ayoub-45/number-guessing-game)  
-🔹 A fun and interactive CLI game developed in **Bash**, showcasing PostgreSQL integration.  
-🔹 Highlights database query handling and dynamic scripting.  
-
----
-
 ### 📚 **What I'm Currently Learning**  
 
 - 🌐 **German Language**: Broadening my communication skills.  
