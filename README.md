@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ayoub Nasraoui
+# 👋 Hi there! I'm [Your Name]  
 
 🎓 **Master's Student in DevOps & Site Reliability Engineering**  
 💻 **Software Engineer | DevOps Enthusiast | Aspiring Entrepreneur**  
@@ -20,12 +20,13 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)  
 ![.NET](https://img.shields.io/badge/-DotNET-512BD4?logo=.net&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
 ---
 
@@ -66,6 +67,8 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 ### 🌍 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+
 ---
 
 ### 📊 **GitHub Stats**  
