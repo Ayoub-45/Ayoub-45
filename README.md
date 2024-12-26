@@ -50,7 +50,7 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 ### 📚 **What I'm Currently Learning**  
 
 - 🌐 **German Language**: Broadening my communication skills.  
-- ☁️ **Azure Ecosystem**: Focusing on access management and advanced DevOps workflows.  
+- ☁️ **Amazon Ecosystem**: Focusing on access management and advanced DevOps workflows.  
 - 📖 **Entrepreneurship**: Exploring strategies to build and scale startups.
 
 ---
@@ -66,15 +66,9 @@ _"Life's challenges are opportunities to grow and build something meaningful."_ 
 
 ### 🌍 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)    
 
 ---
-
-### 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 ---
 
 🤝 _Open to collaboration on exciting projects, DevOps pipelines, and innovative startups!_
