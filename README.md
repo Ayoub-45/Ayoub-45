@@ -1,18 +1,29 @@
-# 👋 Hello, I'm Ayoub Nasraoui
+👋 About Me
+Hi, I'm Ayoub Nasraoui — a passionate entrepreneur, DevOps & Digital Health innovator, and writer on a mission to build technology that serves humanity.
 
-🎯 DevOps Enthusiast | Cloud Engineer in Progress | Lifelong Learner | Passionate about Deep Tech & Innovation
+💼 What I Do
+🚀 I build MVPs and digital solutions that tackle real-world challenges, especially in healthcare, mental wellness, and education.
 
----
+🛠️ I specialize in DevOps, cloud engineering, and full-stack development with a strong focus on scalability, resilience, and impact.
 
-## 🚀 About Me
+✍️ I write about growth mindset, philosophy, and the interplay between psychology and technology — aiming to inspire young changemakers.
 
-I'm a passionate and dedicated DevOps & Cloud Engineering student with a strong focus on building scalable systems, automation, and reliability. I'm on a journey to master modern DevOps practices and explore the power of **Artificial Intelligence** and **Deep Learning**.
+🧠 What Drives Me
+📚 Lifelong learning is my oxygen — from software engineering to human behavior, I believe curiosity is power.
 
-🔧 Currently pursuing a Master’s in **DevOps & Site Reliability Engineering**  
-☁️ Exploring infrastructure as code, container orchestration, and cloud-native technologies  
-🧠 Diving deep into AI, Neural Networks, and the future of intelligent systems
+🤝 I collaborate with startups, educators, and innovators to bridge the gap between tech and purpose.
 
----
+🌍 I’m committed to ethical innovation and sustainable growth, guided by faith, humility, and bold execution.
+
+🔍 What You’ll Find Here
+🧪 Personal projects, experimental ideas, and open-source tools.
+
+💡 Repositories focused on DevOps pipelines, backend APIs, and digital health prototypes.
+
+📖 Insights from my writings — connecting code with culture, mind with machine.
+
+“Innovation starts within. Tools evolve, but purpose endures.”
+— Ayoub
 
 ## 🛠️ Skills & Tools
 
