@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I'm Ayoub Nasraoui — a passionate entrepreneur, DevOps & Digital Health innovator, and writer on a mission to build technology that serves humanity.
+Hi, I'm Ayoub Nasraoui — a passionate DevOps & Digital Health innovator, and writer on a mission to build technology that serves humanity.
 
 # 💼 What I Do
 🚀 I build MVPs and digital solutions that tackle real-world challenges, especially in healthcare, mental wellness, and education.
