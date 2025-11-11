@@ -1,82 +1,28 @@
-# 👋 About Me
-Hi, I'm Ayoub Nasraoui — a passionate DevOps & Digital Health innovator, and writer on a mission to build technology that serves humanity.
+# Hi, I'm Ayoub 👋
 
-# 💼 What I Do
-🚀 I build MVPs and digital solutions that tackle real-world challenges, especially in healthcare, mental wellness, and education.
+DevOps & Cloud Engineering student passionate about building automated, scalable, and reliable systems. I enjoy working across the stack: from application code to infrastructure deployment and monitoring.
 
-🛠️ I specialize in DevOps, cloud engineering, and full-stack development with a strong focus on scalability, resilience, and impact.
+### ⚡ What I do
+- Design and deploy containerized microservices with **Docker** & **Kubernetes**
+- Automate pipelines using **GitHub Actions** & **Jenkins**
+- Build infrastructure with **Terraform** & **Ansible**
+- Develop backend and platform features using **JavaScript**, **Python**, and **Java**
+- Work with **AWS**, **Linux**, **PostgreSQL**, **MongoDB**, and **Redis**
+- Explore service mesh and observability using **Istio**
 
-✍️ I write about growth mindset, philosophy, and the interplay between psychology and technology — aiming to inspire young changemakers.
+### 🛠 Technologies & Tools
+Docker | Kubernetes | Terraform | Ansible | AWS | GitHub Actions | Jenkins | PostgreSQL | MongoDB | Redis | Bash | Git
 
-# 🧠 What Drives Me
-📚 Lifelong learning is my oxygen — from software engineering to human behavior, I believe curiosity is power.
+### 🚀 Projects
+- **ProShop E-commerce Platform** – MERN stack + Docker + CI/CD automation
+- **Medical Clinics System** – Patient workflow & data management platform
+- **DeepScan (Winner)** – AI healthcare data insights
+- **HopeWell (3rd Place)** – AI mental-health assistant platform
 
-🤝 I collaborate with startups, educators, and innovators to bridge the gap between tech and purpose.
+### 🌱 Currently learning
+- Advanced Kubernetes patterns
+- Cloud FinOps and scalability practices
 
-🌍 I’m committed to ethical innovation and sustainable growth, guided by faith, humility, and bold execution.
-
-🔍 What You’ll Find Here
-🧪 Personal projects, experimental ideas, and open-source tools.
-
-💡 Repositories focused on DevOps pipelines, backend APIs, and digital health prototypes.
-
-# 📖 Insights from my writings — connecting code with culture, mind with machine.
-
-### “Innovation starts within. Tools evolve, but purpose endures.”
-#### — Ayoub
-
-## 🛠️ Skills & Tools
-
-### 💻 Software Engineering
--  **Languages**: Java ☕ | JavaScript | Python   
--  **Frameworks**: Spring Boot | React | Node.js (express js)
--  **Testing**: JUnit  | Postman  | Mocha | Cypress
--  **Databases**: PostgreSQL  | MongoDB | Redis   
--  **Tools**: VS Code 🖋️ | IntelliJ IDEA  | Docker  
--  **Concepts**: OOP  | Clean Code  | SOLID Principles  | Design Patterns 
-
-### ⚙️ DevOps & Cloud
-- **CI/CD**: Jenkins, GitHub Actions  
-- **IaC**: Terraform, Ansible  
-- **Containers**: Docker, Kubernetes  
-- **Cloud Platforms**: AWS (basic knowledge)  
-- **Monitoring**: Prometheus, Grafana  
-- **Version Control**: Git
-
-### 🧠 AI & Deep Learning
-- **Frameworks**: PyTorch, TensorFlow  
-- **Concepts**: Neural Networks, CNNs, RNNs, Transformers  
-- **Tools**: Jupyter, Google Colab  
-- **Languages**: Python, Bash
-
-### 🧑‍💻 Practices
-- Agile & Scrum Methodologies  
-- Test-Driven Development (TDD)  
-- Infrastructure as Code (IaC)  
-- DevSecOps Principles  
-- GitOps
-
----
-
-## 📚 Currently Learning
-- 🤖 LLMs and Generative AI  
-- ☁️ Advanced Terraform for Multi-Cloud Deployments  
-- 🧪 Observability and SRE Practices  
-- 🗣️ German Language
-
----
-
-## 🌱 I Believe In
-> *“Discipline, consistency, and purpose fuel mastery. I believe in growth through persistence, and in serving with skill and sincerity.”*
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: ayoub.nasraoui@horizon-university.tn  
-- 💼 LinkedIn: (https://www.linkedin.com/in/ayoub-nasraoui-6b06b2236/)
-
----
-
-_“Code with purpose. Automate with clarity. Learn like your future depends on it.”_
-
+### 🤝 Let’s connect
+- LinkedIn: https://www.linkedin.com/in/ayoub-nasraoui
+- Email: ayoub.basraoui198@gmail.com
