@@ -23,14 +23,14 @@ Right now, I’m channeling my experience into co-building **Gym Access**, a Saa
 
 ### 🏆 Hackathon Victories & Milestones
 
-I love intense, fast-paced problem solving. During my Master's degree, I took home podium finishes in two major hackathons:
+I love intense, fast-paced problem-solving. During my Master's degree, I took home podium finishes in two major hackathons:
 
 *   **🥇 1st Place – HorizonUp (April 2025)** 
-    *   **Project:** *DeepScanAI* with team *ApexOps*
+    *   **Project:** *DeepScanAI* with team *ApexOps* **(A healthcare-focused solution)**
     *   **Venue:** Horizon School Of Digital Technologies
-*   **🥉 3rd Place – SoulSync (June 2025)** 
-    *   **Project:** HopeWell ** (A healthcare-focused solution)
-    *   **Venue:** Digital Health Challenge at the Medical University of Sousse
+*   **🥉 3rd Place – Digital Health Challenge (June 2025)** 
+    *   **Project:** *HopeWell* with team *SoulSync* **(A healthcare-focused solution)**
+    *   **Venue:** at the Medical University of Sousse
 
 ---
 
@@ -39,7 +39,7 @@ I love intense, fast-paced problem solving. During my Master's degree, I took ho
 *   **Master’s Degree in Computer Science** -Specialized in *DevOps and Site Reliability Engineering* – Horizon School Of Digital Technologies
 > *Focused on designing high-availability infrastructure, site reliability engineering principles, automated CI/CD pipelines, and cloud-native architecture.*
 *   **Bachelor’s Degree in Computer Science** – Specialized in *Software Engineering*- University Of Monastir
-> *My foundation in software engineering allows me to think like a developer while engineering infrastructure, ensuring smoother CI/CD pipelines and better collaboration.*
+My foundation in software engineering enables me to think like a developer while building infrastructure, ensuring smoother CI/CD pipelines and better collaboration.*
 
 ---
 
