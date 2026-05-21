@@ -52,7 +52,7 @@ I love intense, fast-paced problem-solving. During my Master's degree, I took ho
 
 ### 📫 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/ayoub-nasraoui](https://linkedin.com/in/ayoub-nasraoui-6b06b2236)
+*   💼 **LinkedIn:** [linkedin.com/in/ayoub-nasraoui-6b06b2236](https://linkedin.com/in/ayoub-nasraoui-6b06b2236)
 *   🌐 **Portfolio/Website:** [https://portfolio-ayoubnasraoui.vercel.app/](https://portfolio-ayoubnasraoui.vercel.app/)]
 *   💬 **Let's talk about:** DevOps culture, AWS architecture, SaaS ideas, or your next project!
 
