@@ -52,8 +52,8 @@ My foundation in software engineering enables me to think like a developer while
 
 ### 📫 Connect with Me
 
-*   💼 **LinkedIn:** [linkedin.com/in/ayoub-nasraoui](https://linkedin.com/in/ayoub-nasraoui)
-*   🌐 **Portfolio/Website:** [[yourwebsite.com](https://portfolio-ayoubnasraoui.vercel.app/)]([https://yourwebsite.com](https://portfolio-ayoubnasraoui.vercel.app/))
+*   💼 **LinkedIn:** [linkedin.com/in/ayoub-nasraoui](https://linkedin.com/in/ayoub-nasraoui-6b06b2236)
+*   🌐 **Portfolio/Website:** [https://portfolio-ayoubnasraoui.vercel.app/](https://portfolio-ayoubnasraoui.vercel.app/)]
 *   💬 **Let's talk about:** DevOps culture, AWS architecture, SaaS ideas, or your next project!
 
 ⚡ *Fun fact: I don't just deploy the code; because of my software engineering roots, I actually enjoy reading it too.*
