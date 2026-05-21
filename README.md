@@ -1,96 +1,59 @@
-# 👋 Hi, I'm Ayoub
+# Hi there, I'm Ayoub👋 
 
-💻 DevOps Engineer | Cloud & SRE Enthusiast  
-🌍 Passionate about scalable systems, automation, and reliability  
-🧠 Lifelong learner with an entrepreneurial mindset  
+### 🚀 Freelance DevOps Engineer | SaaS Builder | 2x Hackathon Winner
 
----
+I am a freelance DevOps Engineer and Software Engineer who bridges the gap between clean code and robust infrastructure. With a background in Software Engineering and a passion for automation, I build scalable, self-healing systems that keep applications running smoothly. 
 
-## 🧠 About Me
-- 🎯 DevOps & Site Reliability Engineering focus
-- ☁️ Cloud-native, automation-first mindset
-- 🔐 Strong interest in security, IAM, and infrastructure reliability
-- ⚙️ I love turning complex systems into simple, repeatable processes
-- 📈 Interested in startups, SaaS, and building scalable products
+Right now, I’m channeling my experience into co-building **Gym Access**, a SaaS platform designed to streamline gym memberships.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+### 🛠️ My Tech Stack
 
-### ⚙️ DevOps & Infrastructure
-- Linux (Ubuntu, Debian)
-- Bash / Shell scripting
-- Python (automation & scripting)
-- Git & GitHub
-- CI/CD Pipelines (GitHub Actions, Jenkins)
-- Docker & Docker Compose
-- Kubernetes (k8s)
-- Helm
-
-### ☁️ Cloud & Platforms
-- Amazon Web Services (AWS)
-  - IAM, EC2, S3, VPC
-  - ECS / EKS (basics)
-- Cloud Architecture Fundamentals
-- Infrastructure as Code (Terraform)
-
-### 🔐 Networking & Security
-- Networking fundamentals (TCP/IP, DNS, HTTP)
-- Load balancing & reverse proxies
-- Authentication & Authorization
-- Zero Trust concepts
-
-### 📊 Observability & Reliability
-- Monitoring & logging fundamentals
-- Prometheus & Grafana (basics)
-- SRE principles (SLIs, SLOs, SLAs)
-
-### 🧪 Backend & Databases
-- Node.js (Express)
-- REST APIs
-- PostgreSQL
-- SQL fundamentals
+| Category | Technologies |
+| :--- | :--- |
+| **DevOps & IaC** | `Terraform`, `Github Actions` |
+| **Cloud & Infra** | `AWS` |
+| **Containers & Orchestration** | `Docker` • `Kubernetes` |
+| **Monitoring & Observability** | `Prometheus` • `Grafana` |
+| **Backend & Languages** | `NodeJS (Express)` • `JavaScript` • `Python` • `Java` |
+| **Databases & Caching** | `PostgreSQL` • `MongoDB` • `Redis` |
 
 ---
 
-## 📂 Featured Projects
-🔹 **Gym Access Membership (SaaS)**  
-- Node.js backend  
-- Dockerized services  
-- CI/CD automation  
-- PostgreSQL database  
-- DevOps-first architecture  
+### 🏆 Hackathon Victories & Milestones
 
-🔹 **Istio / Service Mesh Lab**
-- Traffic routing
-- mTLS & security policies
-- Observability with Kubernetes
+I love intense, fast-paced problem solving. During my Master's degree, I took home podium finishes in two major hackathons:
 
-🔹 **Task Manager API**
-- RESTful API design
-- PostgreSQL
-- Unit & integration testing
-
-*(More projects coming 🚀)*
+*   **🥇 1st Place – HorizonUp (April 2025)** 
+    *   **Project:** *DeepScanAI* with team *ApexOps*
+    *   **Venue:** Horizon School Of Digital Technologies
+*   **🥉 3rd Place – SoulSync (June 2025)** 
+    *   **Project:** HopeWell ** (A healthcare-focused solution)
+    *   **Venue:** Digital Health Challenge at the Medical University of Sousse
 
 ---
 
-## 📈 GitHub Stats
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoub-45&show_icons=true&theme=tokyonight)
+### 🎓 Background & Education
+
+*   **Master’s Degree in Computer Science** -Specialized in *DevOps and Site Reliability Engineering* – Horizon School Of Digital Technologies
+> *   Focused on designing high-availability infrastructure, site reliability engineering principles, automated CI/CD pipelines, and cloud-native architecture.*
+*   **Bachelor’s Degree in Computer Science** – Specialized in *Software Engineering*- University Of Monastir
+> *My foundation in software engineering allows me to think like a developer while engineering infrastructure, ensuring smoother CI/CD pipelines and better collaboration.*
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Kubernetes
-- AWS solution architect
-- System design for large platforms
+### 🚧 Current Focus
+
+*   **Gym Access:** Co-founding and building a modern membership SaaS.
+*   **Freelancing:** Helping startups and businesses scale their AWS infrastructure, optimize Kubernetes clusters, automate their infrastructure  and deployment via Terraform and GitHub Actions.
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: *(www.linkedin.com/in/ayoub-nasraoui-6b06b2236)*
-- 📧 Email: *ayoub.basraoui198@gmail.com*
+### 📫 Connect with Me
 
----
+*   💼 **LinkedIn:** [linkedin.com/in/ayoub-nasraoui](https://linkedin.com/in/ayoub-nasraoui)
+*   🌐 **Portfolio/Website:** [[yourwebsite.com](https://portfolio-ayoubnasraoui.vercel.app/)]([https://yourwebsite.com](https://portfolio-ayoubnasraoui.vercel.app/))
+*   💬 **Let's talk about:** DevOps culture, AWS architecture, SaaS ideas, or your next project!
 
-> “Build systems that survive chaos.”
+⚡ *Fun fact: I don't just deploy the code; because of my software engineering roots, I actually enjoy reading it too.*
