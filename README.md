@@ -39,7 +39,7 @@ I love intense, fast-paced problem-solving. During my Master's degree, I took ho
 *   **Master’s Degree in Computer Science** -Specialized in *DevOps and Site Reliability Engineering* – Horizon School Of Digital Technologies
 > *Focused on designing high-availability infrastructure, site reliability engineering principles, automated CI/CD pipelines, and cloud-native architecture.*
 *   **Bachelor’s Degree in Computer Science** – Specialized in *Software Engineering*- University Of Monastir
-My foundation in software engineering enables me to think like a developer while building infrastructure, ensuring smoother CI/CD pipelines and better collaboration.*
+> *My foundation in software engineering enables me to think like a developer while building infrastructure, ensuring smoother CI/CD pipelines and better collaboration.*
 
 ---
 
