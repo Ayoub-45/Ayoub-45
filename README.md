@@ -1,59 +1,22 @@
-# Hi there, I'm Ayoub👋 
+# Ayoub Nasraoui — Cloud Infrastructure & DevOps Engineer 🚀
 
-### 🚀 Freelance DevOps Engineer | SaaS Builder | 2x Hackathon Winner
+Self-employed Cloud Infrastructure Engineer & DevOps consultant based in Tunisia, helping tech startups and growing teams build reliable, automated, and scalable infrastructure.
 
-I am a freelance DevOps Engineer and Software Engineer who bridges the gap between clean code and robust infrastructure. With a background in Software Engineering and a passion for automation, I build scalable, self-healing systems that keep applications running smoothly. 
+## What I do
+I work with clients to design and implement production-grade infrastructure — from zero to fully automated deployment pipelines, container orchestration, and cloud architecture on AWS.
 
-Right now, I’m channeling my experience into co-building **Gym Access**, a SaaS platform designed to streamline gym memberships.
+- **Infrastructure as Code** — Terraform, Ansible
+- **Container Orchestration** — Docker, Kubernetes
+- **CI/CD Pipelines** — GitHub Actions, Jenkins
+- **Cloud Architecture** — AWS (EC2, S3, RDS, Lambda, EKS)
+- **Observability** — Prometheus, Grafana
+- **Backend & APIs** — Node.js, Python, Next.js, MongoDB, PostgreSQL
 
----
+## Featured project
+**AutoDoc** — AI-powered documentation engine for JavaScript/TypeScript codebases. Built on a RAG pipeline with local LLM inference, vector search, and AST-based code analysis.
+**
+## Open to
+Freelance contracts ·
 
-### 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **DevOps & IaC** | `Terraform`, `Github Actions` |
-| **Cloud & Infra** | `AWS` |
-| **Containers & Orchestration** | `Docker` • `Kubernetes` |
-| **Monitoring & Observability** | `Prometheus` • `Grafana` |
-| **Backend & Languages** | `NodeJS (Express)` • `JavaScript` • `Python` • `Java` |
-| **Databases & Caching** | `PostgreSQL` • `MongoDB` • `Redis` |
-
----
-
-### 🏆 Hackathon Victories & Milestones
-
-I love intense, fast-paced problem-solving. During my Master's degree, I took home podium finishes in two major hackathons:
-
-*   **🥇 1st Place – HorizonUp (April 2025)** 
-    *   **Project:** *DeepScanAI* with team *ApexOps* **(A healthcare-focused solution)**
-    *   **Venue:** Horizon School Of Digital Technologies
-*   **🥉 3rd Place – Digital Health Challenge (June 2025)** 
-    *   **Project:** *HopeWell* with team *SoulSync* **(A healthcare-focused solution)**
-    *   **Venue:** at the Medical University of Sousse
-
----
-
-### 🎓 Background & Education
-
-*   **Master’s Degree in Computer Science** -Specialized in *DevOps and Site Reliability Engineering* – Horizon School Of Digital Technologies
-> *Focused on designing high-availability infrastructure, site reliability engineering principles, automated CI/CD pipelines, and cloud-native architecture.*
-*   **Bachelor’s Degree in Computer Science** – Specialized in *Software Engineering*- University Of Monastir
-> *My foundation in software engineering enables me to think like a developer while building infrastructure, ensuring smoother CI/CD pipelines and better collaboration.*
-
----
-
-### 🚧 Current Focus
-
-*   **Gym Access:** Co-founding and building a modern membership SaaS.
-*   **Freelancing:** Helping startups and businesses scale their AWS infrastructure, optimize Kubernetes clusters, automate their infrastructure  and deployment via Terraform and GitHub Actions.
-
----
-
-### 📫 Connect with Me
-
-*   💼 **LinkedIn:** [linkedin.com/in/ayoub-nasraoui-6b06b2236](https://linkedin.com/in/ayoub-nasraoui-6b06b2236)
-*   🌐 **Portfolio/Website:** [https://portfolio-ayoubnasraoui.vercel.app/](https://portfolio-ayoubnasraoui.vercel.app/)]
-*   💬 **Let's talk about:** DevOps culture, AWS architecture, SaaS ideas, or your next project!
-
-⚡ *Fun fact: I don't just deploy the code; because of my software engineering roots, I actually enjoy reading it too.*
+## Let's work together
+[LinkedIn](https://linkedin.com/in/ayoub-nasraoui-6b06b2236) · [Portfolio](https://ayoub-devops.com) · ayoub@ayoub-devops.com
